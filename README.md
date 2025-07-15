@@ -1,14 +1,23 @@
-# Carbon Neutrality Report
+# Carbon Neutrality Report – Ontario, Canada 🇨🇦
 
-This repository contains an HTML report titled **"Carbon Neutrality Report"**, which outlines the analysis and findings regarding carbon emission neutrality. The report may include visualizations, data insights, and conclusions related to environmental sustainability efforts.
+This project evaluates carbon emissions in the **Province of Ontario** and assesses whether the province's trajectory aligns with **Canada’s overarching plan for carbon neutrality**.
 
-## 🔍 File Contents
+## 📘 Overview
 
-- `carbon_neutrality_report.html`: A standalone HTML report. You can open this file directly in any modern web browser to view the report.
+The analysis involves a comprehensive approach, including:
 
-## 📦 Usage
+- ✅ **Data Collection & Cleaning**: Preprocessing and validation of environmental datasets.
+- 📊 **Data Analysis**: Emissions breakdown, sectoral insights, and historical trends.
+- 📈 **Visualization**: Clear, interactive charts embedded in the report for deeper understanding.
+- 🧠 **Findings & Insights**: Observations about emission sources, progress metrics, and gaps.
+- 📌 **Conclusion & Recommendations**: Strategic actions Ontario can take to support Canada's 2050 carbon neutrality goal.
 
-To view the report:
+## 📁 Contents
+
+- `carbon_neutrality_report.html`: The complete standalone HTML report.  
+  Open it in any modern browser to view.
+
+## 🧑‍💻 How to Use
 
 1. Clone the repository:
    ```bash
